@@ -1,21 +1,23 @@
 
-
-
 body {
 font-family: 'Roboto', sans-serif;
 font-weight: 500;
+color: coral;
+background-color: darkkhaki;
+border: black 20px solid;
 }
-p{
-    font-weight: 10;
-    font-size: 18;
+
+h1{
+margin: 10px;
+padding: 10pxx;
 }
 
 div {
     background: black;
-    color: white;
+    color: rgb(255, 255, 255);
     width: 500px;
     border: none; 
-    
+    margin: 50px;
     padding: 20px;
     font-size: 30px;
 }
